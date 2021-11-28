@@ -1,0 +1,27 @@
+{
+  "name": "download-tiktok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloadTiktok.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "js-file-download": "^0.4.12",
+    "node": "^17.1.0",
+    "puppeteer": "^12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node downloadTiktok.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francobalich/Download-TikTok.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francobalich/Download-TikTok/issues"
+  },
+  "homepage": "https://github.com/francobalich/Download-TikTok#readme"
+}

@@ -4,6 +4,8 @@
   "description": "",
   "main": "downloadTiktok.js",
   "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "0.0.1-security",
     "node": "^17.1.0",
     "puppeteer": "^12.0.0"
   },
